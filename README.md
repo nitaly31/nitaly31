@@ -4,7 +4,8 @@
 
  *I am currently looking for the opportunity to grow in the test automation branch and become a team leader in that specialization.*
 
- ![QA-Automation](./img/automation.gif)
+<img src="./img/automation.gif" style="width:450px;">
+
  ***
 
 ## 💬  About Me
@@ -12,6 +13,7 @@
 * 🎓   FullStack Development from Holberton School
 * 👯   Looking to collaborate on learning new technologies.
 * 🌱   Still learning about JavaScript, Angular, Java.
+* 🤖 QA Automation
 
 ## 🛠  Tech Stack
 
